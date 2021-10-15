@@ -1,0 +1,1031 @@
+fileFormatVersion: 2
+guid: e2997c8e8ee7b2d4aa844253eff1a9dd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: All_Control
+    100002: Beard1
+    100004: Beard2
+    100006: Beard3
+    100008: Breath_Control
+    100010: Chest
+    100012: Chest_Control
+    100014: Head
+    100016: Head2
+    100018: Head_Control
+    100020: Hip_Control
+    100022: Jaw
+    100024: Jaw_Control
+    100026: joint3
+    100028: L_AllLowerBrow_Control
+    100030: L_AllMustache_Control
+    100032: L_AllUpperBrow_Control
+    100034: L_Ankle
+    100036: L_AnkleikHandle
+    100038: L_ArmikHandle
+    100040: L_Ball
+    100042: L_Ball_Control
+    100044: L_BallikHandle
+    100046: L_Cheek
+    100048: L_Cheek_Control
+    100050: L_Ear
+    100052: L_Ear_Control
+    100054: L_Ear_Control1
+    100056: L_Ear_Control2
+    100058: L_EarMiddle
+    100060: L_EarTip
+    100062: L_Elbow
+    100064: L_Elbow_Control
+    100066: L_Eyebrow1
+    100068: L_Eyebrow2
+    100070: L_Eyebrow3
+    100072: L_Fingers
+    100074: L_FingerTips
+    100076: L_Foot_Control
+    100078: L_Hand
+    100080: L_Knee
+    100082: L_Knee_Control
+    100084: L_Leg
+    100086: L_Leg_Control
+    100088: L_LowerBrow1_Control
+    100090: L_LowerBrow2_Control
+    100092: L_LowerBrow3_Control
+    100094: L_LowerLip1
+    100096: L_LowerLip2
+    100098: L_LowerLip_Control1
+    100100: L_LowerLip_Control2
+    100102: L_Mustache1
+    100104: L_Mustache2
+    100106: L_Mustache3
+    100108: L_Mustache4
+    100110: L_Mustache_Control1
+    100112: L_Mustache_Control2
+    100114: L_Mustache_Control3
+    100116: L_Mustache_Control4
+    100118: L_Nostril
+    100120: L_Nostril_Control
+    100122: L_RevAnkle
+    100124: L_RevBall
+    100126: L_RevFoot
+    100128: L_RevToe
+    100130: L_Roll_Control
+    100132: L_Shoulder
+    100134: L_Shoulder_Control
+    100136: L_Thumb1
+    100138: L_Thumb2
+    100140: L_Thumb3
+    100142: L_Toe
+    100144: L_Toe_Control
+    100146: L_ToeikHandle
+    100148: L_UnderEye1
+    100150: L_UnderEye2
+    100152: L_UnderEye3
+    100154: L_UpperBrow1_Control
+    100156: L_UpperBrow2_Control
+    100158: L_UpperBrow3_Control
+    100160: L_UpperLip1
+    100162: L_UpperLip2
+    100164: L_UpperLip_Control1
+    100166: L_UpperLip_Control2
+    100168: L_Wrist
+    100170: L_Wrist_Control
+    100172: LowerLip
+    100174: LowerLip_Control
+    100176: Lungs
+    100178: Mustache
+    100180: Mustache_Control
+    100182: Neck
+    100184: Neck_Control
+    100186: Nose
+    100188: Nose_Control
+    100190: nurbsCircle1
+    100192: nurbsCircle2
+    100194: nurbsCircle3
+    100196: poly_Barba
+    100198: poly_Bigode
+    100200: poly_Blusa
+    100202: poly_Cabeca
+    100204: poly_Cabelo
+    100206: poly_Calca
+    100208: poly_CalcadoDireito
+    100210: poly_CalcadoEsquerdo
+    100212: poly_Corpo
+    100214: poly_Jaleco
+    100216: poly_LenteDireita
+    100218: poly_LenteEsquerda
+    100220: poly_LuvaDireita
+    100222: poly_LuvaEsquerda
+    100224: poly_Oculos
+    100226: poly_OculosDireito
+    100228: poly_OculosEsquerdo
+    100230: poly_OculosMeio
+    100232: poly_OrelhaDireita
+    100234: poly_OrelhaEsquerda
+    100236: R_AllLowerBrow_Control
+    100238: R_AllMustache_Control
+    100240: R_AllUpperBrow_Control
+    100242: R_Ankle
+    100244: R_AnkleikHandle
+    100246: R_ArmikHandle
+    100248: R_Ball
+    100250: R_Ball_Control
+    100252: R_BallikHandle
+    100254: R_Cheek
+    100256: R_Cheek_Control
+    100258: R_Ear
+    100260: R_Ear_Control
+    100262: R_Ear_Control1
+    100264: R_Ear_Control2
+    100266: R_EarMiddle
+    100268: R_EarTip
+    100270: R_Elbow
+    100272: R_Elbow_Control
+    100274: R_Eyebrow1
+    100276: R_Eyebrow2
+    100278: R_Eyebrow3
+    100280: R_Fingers
+    100282: R_FingerTips
+    100284: R_Foot_Control
+    100286: R_Hand
+    100288: R_Hand_Control
+    100290: R_Knee
+    100292: R_Knee_Control
+    100294: R_Leg
+    100296: R_Leg_Control
+    100298: R_LowerBrow1_Control
+    100300: R_LowerBrow2_Control
+    100302: R_LowerBrow3_Control
+    100304: R_LowerLip1
+    100306: R_LowerLip2
+    100308: R_LowerLip_Control1
+    100310: R_LowerLip_Control2
+    100312: R_Mustache1
+    100314: R_Mustache2
+    100316: R_Mustache3
+    100318: R_Mustache4
+    100320: R_Mustache_Control1
+    100322: R_Mustache_Control2
+    100324: R_Mustache_Control3
+    100326: R_Mustache_Control4
+    100328: R_Nostril
+    100330: R_Nostril_Control
+    100332: R_RevAnkle
+    100334: R_RevBall
+    100336: R_RevFoot
+    100338: R_RevToe
+    100340: R_Roll_Control
+    100342: R_Shoulder
+    100344: R_Shoulder_Control
+    100346: R_Thumb1
+    100348: R_Thumb2
+    100350: R_Thumb3
+    100352: R_Toe
+    100354: R_Toe_Control
+    100356: R_ToeikHandle
+    100358: R_UnderEye1
+    100360: R_UnderEye2
+    100362: R_UnderEye3
+    100364: R_UpperBrow1_Control
+    100366: R_UpperBrow2_Control
+    100368: R_UpperBrow3_Control
+    100370: R_UpperLip1
+    100372: R_UpperLip2
+    100374: R_UpperLip_Control1
+    100376: R_UpperLip_Control2
+    100378: R_Wrist
+    100380: R_Wrist_Control
+    100382: Root
+    100384: //RootNode
+    100386: Spine
+    100388: Spine_Control
+    100390: transform1
+    100392: transform2
+    100394: transform3
+    100396: transform4
+    100398: transform5
+    100400: UpperLip
+    100402: UpperLip_Control
+    400000: All_Control
+    400002: Beard1
+    400004: Beard2
+    400006: Beard3
+    400008: Breath_Control
+    400010: Chest
+    400012: Chest_Control
+    400014: Head
+    400016: Head2
+    400018: Head_Control
+    400020: Hip_Control
+    400022: Jaw
+    400024: Jaw_Control
+    400026: joint3
+    400028: L_AllLowerBrow_Control
+    400030: L_AllMustache_Control
+    400032: L_AllUpperBrow_Control
+    400034: L_Ankle
+    400036: L_AnkleikHandle
+    400038: L_ArmikHandle
+    400040: L_Ball
+    400042: L_Ball_Control
+    400044: L_BallikHandle
+    400046: L_Cheek
+    400048: L_Cheek_Control
+    400050: L_Ear
+    400052: L_Ear_Control
+    400054: L_Ear_Control1
+    400056: L_Ear_Control2
+    400058: L_EarMiddle
+    400060: L_EarTip
+    400062: L_Elbow
+    400064: L_Elbow_Control
+    400066: L_Eyebrow1
+    400068: L_Eyebrow2
+    400070: L_Eyebrow3
+    400072: L_Fingers
+    400074: L_FingerTips
+    400076: L_Foot_Control
+    400078: L_Hand
+    400080: L_Knee
+    400082: L_Knee_Control
+    400084: L_Leg
+    400086: L_Leg_Control
+    400088: L_LowerBrow1_Control
+    400090: L_LowerBrow2_Control
+    400092: L_LowerBrow3_Control
+    400094: L_LowerLip1
+    400096: L_LowerLip2
+    400098: L_LowerLip_Control1
+    400100: L_LowerLip_Control2
+    400102: L_Mustache1
+    400104: L_Mustache2
+    400106: L_Mustache3
+    400108: L_Mustache4
+    400110: L_Mustache_Control1
+    400112: L_Mustache_Control2
+    400114: L_Mustache_Control3
+    400116: L_Mustache_Control4
+    400118: L_Nostril
+    400120: L_Nostril_Control
+    400122: L_RevAnkle
+    400124: L_RevBall
+    400126: L_RevFoot
+    400128: L_RevToe
+    400130: L_Roll_Control
+    400132: L_Shoulder
+    400134: L_Shoulder_Control
+    400136: L_Thumb1
+    400138: L_Thumb2
+    400140: L_Thumb3
+    400142: L_Toe
+    400144: L_Toe_Control
+    400146: L_ToeikHandle
+    400148: L_UnderEye1
+    400150: L_UnderEye2
+    400152: L_UnderEye3
+    400154: L_UpperBrow1_Control
+    400156: L_UpperBrow2_Control
+    400158: L_UpperBrow3_Control
+    400160: L_UpperLip1
+    400162: L_UpperLip2
+    400164: L_UpperLip_Control1
+    400166: L_UpperLip_Control2
+    400168: L_Wrist
+    400170: L_Wrist_Control
+    400172: LowerLip
+    400174: LowerLip_Control
+    400176: Lungs
+    400178: Mustache
+    400180: Mustache_Control
+    400182: Neck
+    400184: Neck_Control
+    400186: Nose
+    400188: Nose_Control
+    400190: nurbsCircle1
+    400192: nurbsCircle2
+    400194: nurbsCircle3
+    400196: poly_Barba
+    400198: poly_Bigode
+    400200: poly_Blusa
+    400202: poly_Cabeca
+    400204: poly_Cabelo
+    400206: poly_Calca
+    400208: poly_CalcadoDireito
+    400210: poly_CalcadoEsquerdo
+    400212: poly_Corpo
+    400214: poly_Jaleco
+    400216: poly_LenteDireita
+    400218: poly_LenteEsquerda
+    400220: poly_LuvaDireita
+    400222: poly_LuvaEsquerda
+    400224: poly_Oculos
+    400226: poly_OculosDireito
+    400228: poly_OculosEsquerdo
+    400230: poly_OculosMeio
+    400232: poly_OrelhaDireita
+    400234: poly_OrelhaEsquerda
+    400236: R_AllLowerBrow_Control
+    400238: R_AllMustache_Control
+    400240: R_AllUpperBrow_Control
+    400242: R_Ankle
+    400244: R_AnkleikHandle
+    400246: R_ArmikHandle
+    400248: R_Ball
+    400250: R_Ball_Control
+    400252: R_BallikHandle
+    400254: R_Cheek
+    400256: R_Cheek_Control
+    400258: R_Ear
+    400260: R_Ear_Control
+    400262: R_Ear_Control1
+    400264: R_Ear_Control2
+    400266: R_EarMiddle
+    400268: R_EarTip
+    400270: R_Elbow
+    400272: R_Elbow_Control
+    400274: R_Eyebrow1
+    400276: R_Eyebrow2
+    400278: R_Eyebrow3
+    400280: R_Fingers
+    400282: R_FingerTips
+    400284: R_Foot_Control
+    400286: R_Hand
+    400288: R_Hand_Control
+    400290: R_Knee
+    400292: R_Knee_Control
+    400294: R_Leg
+    400296: R_Leg_Control
+    400298: R_LowerBrow1_Control
+    400300: R_LowerBrow2_Control
+    400302: R_LowerBrow3_Control
+    400304: R_LowerLip1
+    400306: R_LowerLip2
+    400308: R_LowerLip_Control1
+    400310: R_LowerLip_Control2
+    400312: R_Mustache1
+    400314: R_Mustache2
+    400316: R_Mustache3
+    400318: R_Mustache4
+    400320: R_Mustache_Control1
+    400322: R_Mustache_Control2
+    400324: R_Mustache_Control3
+    400326: R_Mustache_Control4
+    400328: R_Nostril
+    400330: R_Nostril_Control
+    400332: R_RevAnkle
+    400334: R_RevBall
+    400336: R_RevFoot
+    400338: R_RevToe
+    400340: R_Roll_Control
+    400342: R_Shoulder
+    400344: R_Shoulder_Control
+    400346: R_Thumb1
+    400348: R_Thumb2
+    400350: R_Thumb3
+    400352: R_Toe
+    400354: R_Toe_Control
+    400356: R_ToeikHandle
+    400358: R_UnderEye1
+    400360: R_UnderEye2
+    400362: R_UnderEye3
+    400364: R_UpperBrow1_Control
+    400366: R_UpperBrow2_Control
+    400368: R_UpperBrow3_Control
+    400370: R_UpperLip1
+    400372: R_UpperLip2
+    400374: R_UpperLip_Control1
+    400376: R_UpperLip_Control2
+    400378: R_Wrist
+    400380: R_Wrist_Control
+    400382: Root
+    400384: //RootNode
+    400386: Spine
+    400388: Spine_Control
+    400390: transform1
+    400392: transform2
+    400394: transform3
+    400396: transform4
+    400398: transform5
+    400400: UpperLip
+    400402: UpperLip_Control
+    2100000: Calca
+    2100002: Calcado
+    2100004: Corpo
+    2100006: Jaleco
+    2100008: Luvas
+    2100010: Orelhas
+    2100012: Barba
+    2100014: Bigode
+    2100016: Blusa
+    2100018: Cabeca
+    2100020: Cabelo
+    2100022: Lentes
+    2100024: Oculos
+    2100026: OculosMeio
+    4300000: poly_Calca
+    4300002: poly_CalcadoDireito
+    4300004: poly_CalcadoEsquerdo
+    4300006: poly_Corpo
+    4300008: poly_Jaleco
+    4300010: poly_LuvaDireita
+    4300012: poly_LuvaEsquerda
+    4300014: poly_OrelhaDireita
+    4300016: poly_OrelhaEsquerda
+    4300018: poly_Barba
+    4300020: poly_Bigode
+    4300022: poly_Blusa
+    4300024: poly_Cabeca
+    4300026: poly_Cabelo
+    4300028: poly_Oculos
+    7400000: Greetings
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: poly_Barba
+    13700002: poly_Bigode
+    13700004: poly_Blusa
+    13700006: poly_Cabeca
+    13700008: poly_Cabelo
+    13700010: poly_Calca
+    13700012: poly_CalcadoDireito
+    13700014: poly_CalcadoEsquerdo
+    13700016: poly_Corpo
+    13700018: poly_Jaleco
+    13700020: poly_LuvaDireita
+    13700022: poly_LuvaEsquerda
+    13700024: poly_Oculos
+    13700026: poly_OrelhaDireita
+    13700028: poly_OrelhaEsquerda
+    7973541674914708964: Beard1
+    7973541674914708966: Beard2
+    7973541674914708968: Beard3
+    7973541674914708970: Chest
+    7973541674914708972: Head
+    7973541674914708974: Jaw
+    7973541674914708976: L_Cheek
+    7973541674914708978: L_Ear
+    7973541674914708980: L_EarMiddle
+    7973541674914708982: L_EarTip
+    7973541674914708984: L_Eyebrow1
+    7973541674914708986: L_Eyebrow2
+    7973541674914708988: L_Eyebrow3
+    7973541674914708990: L_LowerLip1
+    7973541674914708992: L_LowerLip2
+    7973541674914708994: L_Mustache1
+    7973541674914708996: L_Mustache2
+    7973541674914708998: L_Mustache3
+    7973541674914709000: L_Mustache4
+    7973541674914709002: L_Nostril
+    7973541674914709004: L_RevBall
+    7973541674914709006: L_RevToe
+    7973541674914709008: L_UnderEye1
+    7973541674914709010: L_UnderEye2
+    7973541674914709012: L_UnderEye3
+    7973541674914709014: L_UpperLip1
+    7973541674914709016: L_UpperLip2
+    7973541674914709018: LowerLip
+    7973541674914709020: Lungs
+    7973541674914709022: Mustache
+    7973541674914709024: Neck
+    7973541674914709026: Nose
+    7973541674914709028: R_Cheek
+    7973541674914709030: R_Ear
+    7973541674914709032: R_EarMiddle
+    7973541674914709034: R_EarTip
+    7973541674914709036: R_Eyebrow1
+    7973541674914709038: R_Eyebrow2
+    7973541674914709040: R_Eyebrow3
+    7973541674914709042: R_LowerLip1
+    7973541674914709044: R_LowerLip2
+    7973541674914709046: R_Mustache1
+    7973541674914709048: R_Mustache2
+    7973541674914709050: R_Mustache3
+    7973541674914709052: R_Mustache4
+    7973541674914709054: R_Nostril
+    7973541674914709056: R_RevBall
+    7973541674914709058: R_RevToe
+    7973541674914709060: R_UnderEye1
+    7973541674914709062: R_UnderEye2
+    7973541674914709064: R_UnderEye3
+    7973541674914709066: R_UpperLip1
+    7973541674914709068: R_UpperLip2
+    7973541674914709070: Spine
+    7973541674914709072: UpperLip
+    8123674488282577126: L_Wrist
+    8123674488282577128: R_Wrist
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Greetings
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: All_Control
+        weight: 1
+      - path: All_Control/Hip_Control
+        weight: 1
+      - path: All_Control/Hip_Control/L_Shoulder_Control
+        weight: 1
+      - path: All_Control/Hip_Control/L_Shoulder_Control/L_Elbow_Control
+        weight: 1
+      - path: All_Control/Hip_Control/L_Shoulder_Control/L_Wrist_Control
+        weight: 1
+      - path: All_Control/Hip_Control/L_Shoulder_Control/L_Wrist_Control/L_ArmikHandle
+        weight: 1
+      - path: All_Control/Hip_Control/R_Shoulder_Control
+        weight: 1
+      - path: All_Control/Hip_Control/R_Shoulder_Control/R_Elbow_Control
+        weight: 1
+      - path: All_Control/Hip_Control/R_Shoulder_Control/R_Wrist_Control
+        weight: 1
+      - path: All_Control/Hip_Control/R_Shoulder_Control/R_Wrist_Control/R_ArmikHandle
+        weight: 1
+      - path: All_Control/Hip_Control/R_Shoulder_Control/R_Wrist_Control/R_Hand_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Root
+        weight: 1
+      - path: All_Control/Hip_Control/Root/L_Leg
+        weight: 1
+      - path: All_Control/Hip_Control/Root/L_Leg/L_Knee
+        weight: 1
+      - path: All_Control/Hip_Control/Root/L_Leg/L_Knee/L_Ankle
+        weight: 1
+      - path: All_Control/Hip_Control/Root/L_Leg/L_Knee/L_Ankle/L_Ball
+        weight: 1
+      - path: All_Control/Hip_Control/Root/L_Leg/L_Knee/L_Ankle/L_Ball/L_Toe
+        weight: 1
+      - path: All_Control/Hip_Control/Root/R_Leg
+        weight: 1
+      - path: All_Control/Hip_Control/Root/R_Leg/R_Knee
+        weight: 1
+      - path: All_Control/Hip_Control/Root/R_Leg/R_Knee/R_Ankle
+        weight: 1
+      - path: All_Control/Hip_Control/Root/R_Leg/R_Knee/R_Ankle/R_Ball
+        weight: 1
+      - path: All_Control/Hip_Control/Root/R_Leg/R_Knee/R_Ankle/R_Ball/R_Toe
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/L_Shoulder
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/L_Shoulder/L_Elbow/L_Wrist
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/L_Shoulder/L_Elbow/L_Wrist/L_Hand
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/L_Shoulder/L_Elbow/L_Wrist/L_Hand/L_Fingers
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/L_Shoulder/L_Elbow/L_Wrist/L_Hand/L_Fingers/L_FingerTips
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/L_Shoulder/L_Elbow/L_Wrist/L_Hand/L_Thumb1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/L_Shoulder/L_Elbow/L_Wrist/L_Hand/L_Thumb1/L_Thumb2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/L_Shoulder/L_Elbow/L_Wrist/L_Hand/L_Thumb1/L_Thumb2/L_Thumb3
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Lungs
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Jaw
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Jaw/Beard1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Jaw/Beard1/Beard2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Jaw/Beard1/Beard2/Beard3
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Jaw/L_LowerLip1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Jaw/L_LowerLip2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Jaw/LowerLip
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Jaw/R_LowerLip1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Jaw/R_LowerLip2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/L_Cheek
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/L_UpperLip1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/L_UpperLip2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Mustache
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Mustache/L_Mustache1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Mustache/L_Mustache1/L_Mustache2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Mustache/L_Mustache1/L_Mustache2/L_Mustache3
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Mustache/L_Mustache1/L_Mustache2/L_Mustache3/L_Mustache4
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Mustache/R_Mustache1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Mustache/R_Mustache1/R_Mustache2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Mustache/R_Mustache1/R_Mustache2/R_Mustache3
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Mustache/R_Mustache1/R_Mustache2/R_Mustache3/R_Mustache4
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Nose
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Nose/L_Nostril
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/Nose/R_Nostril
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/R_Cheek
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/R_UpperLip1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/R_UpperLip2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/Head2/UpperLip
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/joint3
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/L_Ear
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/L_Ear/L_EarMiddle
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/L_Ear/L_EarMiddle/L_EarTip
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/L_Eyebrow1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/L_Eyebrow2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/L_Eyebrow3
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/L_UnderEye1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/L_UnderEye2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/L_UnderEye3
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/R_Ear
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/R_Ear/R_EarMiddle
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/R_Ear/R_EarMiddle/R_EarTip
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/R_Eyebrow1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/R_Eyebrow2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/R_Eyebrow3
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/R_UnderEye1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/R_UnderEye2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/Neck/Head/R_UnderEye3
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/R_Shoulder
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/R_Shoulder/R_Elbow/R_Wrist
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/R_Shoulder/R_Elbow/R_Wrist/R_Hand
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/R_Shoulder/R_Elbow/R_Wrist/R_Hand/R_Fingers
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/R_Shoulder/R_Elbow/R_Wrist/R_Hand/R_Fingers/R_FingerTips
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/R_Shoulder/R_Elbow/R_Wrist/R_Hand/R_Thumb1
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/R_Shoulder/R_Elbow/R_Wrist/R_Hand/R_Thumb1/R_Thumb2
+        weight: 1
+      - path: All_Control/Hip_Control/Root/Spine/Chest/R_Shoulder/R_Elbow/R_Wrist/R_Hand/R_Thumb1/R_Thumb2/R_Thumb3
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Breath_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Jaw_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Jaw_Control/L_LowerLip_Control1
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Jaw_Control/L_LowerLip_Control2
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Jaw_Control/LowerLip_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Jaw_Control/nurbsCircle1
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Jaw_Control/nurbsCircle1/nurbsCircle2
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Jaw_Control/nurbsCircle1/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Jaw_Control/R_LowerLip_Control1
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Jaw_Control/R_LowerLip_Control2
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_AllLowerBrow_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_AllLowerBrow_Control/L_LowerBrow1_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_AllLowerBrow_Control/L_LowerBrow2_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_AllLowerBrow_Control/L_LowerBrow3_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_AllUpperBrow_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_AllUpperBrow_Control/L_UpperBrow1_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_AllUpperBrow_Control/L_UpperBrow2_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_AllUpperBrow_Control/L_UpperBrow3_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_Cheek_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_Ear_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_Ear_Control/L_Ear_Control1
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_Ear_Control/L_Ear_Control1/L_Ear_Control2
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_UpperLip_Control1
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/L_UpperLip_Control2
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/L_AllMustache_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/L_AllMustache_Control/L_Mustache_Control1
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/L_AllMustache_Control/L_Mustache_Control2
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/L_AllMustache_Control/L_Mustache_Control3
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/L_AllMustache_Control/L_Mustache_Control4
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/R_AllMustache_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/R_AllMustache_Control/R_Mustache_Control1
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/R_AllMustache_Control/R_Mustache_Control2
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/R_AllMustache_Control/R_Mustache_Control3
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Mustache_Control/R_AllMustache_Control/R_Mustache_Control4
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Nose_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Nose_Control/L_Nostril_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/Nose_Control/R_Nostril_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_AllLowerBrow_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_AllLowerBrow_Control/R_LowerBrow1_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_AllLowerBrow_Control/R_LowerBrow2_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_AllLowerBrow_Control/R_LowerBrow3_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_AllUpperBrow_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_AllUpperBrow_Control/R_UpperBrow1_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_AllUpperBrow_Control/R_UpperBrow2_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_AllUpperBrow_Control/R_UpperBrow3_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_Cheek_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_Ear_Control
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_Ear_Control/R_Ear_Control1
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_Ear_Control/R_Ear_Control1/R_Ear_Control2
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_UpperLip_Control1
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/R_UpperLip_Control2
+        weight: 1
+      - path: All_Control/Hip_Control/Spine_Control/Chest_Control/Neck_Control/Head_Control/UpperLip_Control
+        weight: 1
+      - path: All_Control/L_Knee_Control
+        weight: 1
+      - path: All_Control/L_Leg_Control
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_RevFoot
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_RevFoot/L_RevToe
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_RevFoot/L_RevToe/L_RevBall
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_RevFoot/L_RevToe/L_RevBall/L_BallikHandle
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_RevFoot/L_RevToe/L_RevBall/L_RevAnkle
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_RevFoot/L_RevToe/L_RevBall/L_RevAnkle/L_AnkleikHandle
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_RevFoot/L_RevToe/L_ToeikHandle
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_Roll_Control
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_Roll_Control/L_Toe_Control
+        weight: 1
+      - path: All_Control/L_Leg_Control/L_Foot_Control/L_Roll_Control/L_Toe_Control/L_Ball_Control
+        weight: 1
+      - path: All_Control/R_Knee_Control
+        weight: 1
+      - path: All_Control/R_Leg_Control
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_RevFoot
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_RevFoot/R_RevToe
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_RevFoot/R_RevToe/R_RevBall
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_RevFoot/R_RevToe/R_RevBall/R_BallikHandle
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_RevFoot/R_RevToe/R_RevBall/R_RevAnkle
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_RevFoot/R_RevToe/R_RevBall/R_RevAnkle/R_AnkleikHandle
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_RevFoot/R_RevToe/R_ToeikHandle
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_Roll_Control
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_Roll_Control/R_Toe_Control
+        weight: 1
+      - path: All_Control/R_Leg_Control/R_Foot_Control/R_Roll_Control/R_Toe_Control/R_Ball_Control
+        weight: 1
+      - path: poly_Barba
+        weight: 1
+      - path: poly_Bigode
+        weight: 1
+      - path: poly_Blusa
+        weight: 1
+      - path: poly_Cabeca
+        weight: 1
+      - path: poly_Cabelo
+        weight: 1
+      - path: poly_Calca
+        weight: 1
+      - path: poly_CalcadoDireito
+        weight: 1
+      - path: poly_CalcadoEsquerdo
+        weight: 1
+      - path: poly_Corpo
+        weight: 1
+      - path: poly_Jaleco
+        weight: 1
+      - path: poly_LenteDireita
+        weight: 1
+      - path: poly_LenteDireita/transform5
+        weight: 1
+      - path: poly_LenteEsquerda
+        weight: 1
+      - path: poly_LenteEsquerda/transform1
+        weight: 1
+      - path: poly_LuvaDireita
+        weight: 1
+      - path: poly_LuvaEsquerda
+        weight: 1
+      - path: poly_Oculos
+        weight: 1
+      - path: poly_OculosDireito
+        weight: 1
+      - path: poly_OculosDireito/transform4
+        weight: 1
+      - path: poly_OculosEsquerdo
+        weight: 1
+      - path: poly_OculosEsquerdo/transform2
+        weight: 1
+      - path: poly_OculosMeio
+        weight: 1
+      - path: poly_OculosMeio/transform3
+        weight: 1
+      - path: poly_OrelhaDireita
+        weight: 1
+      - path: poly_OrelhaEsquerda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 2
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.099999994
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

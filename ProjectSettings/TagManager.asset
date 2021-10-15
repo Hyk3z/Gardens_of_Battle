@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mob
+  - Clutter
+  - Position
+  - DeadTree
+  - Floor
+  - WoodHouse
+  - Water
+  - Griffin
+  - LiveTree
+  - Fence
+  - Lamp
+  - WallCollider
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - Weapon
+  - Ogre
+  - spit
+  - AntHive
+  - HorseOnly
+  - PlayerOnly
+  - GriffinKraw
+  - GriffinOnly
+  - MountainWall
+  - Ant
+  - Orc
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
